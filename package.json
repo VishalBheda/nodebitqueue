@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/VishalBheda/nodebitqueue/issues"
   },
-  "homepage": "https://github.com/VishalBheda/nodebitqueue#readme"
+  "homepage": "https://github.com/VishalBheda/nodebitqueue#readme",
+  "dependencies": {
+    "amqplib": "^0.5.5"
+  }
 }
